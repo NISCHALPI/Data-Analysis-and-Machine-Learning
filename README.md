@@ -36,5 +36,5 @@ Using this, I also have compared varaious features within these clusters to unde
 </p>
 This normalized heatmap show that the outlier have very high feature values compared to the other clusters.
 
-## Other samll projects
+## Other small projects
 During my learning process, I have also implemented various machine learning algorithms espcially unsupervised learning techniques like clustering and PCA on synthetic datasets which are found in the [additional projects](./additional_small_projects/) folder. Feel free to explore these projects as well.
